@@ -1,0 +1,11 @@
+.list {
+  list-style-type: none;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-left: 0;
+}
+
+.item {
+  font-size: 24px;
+  line-height: 1.4;
+}
